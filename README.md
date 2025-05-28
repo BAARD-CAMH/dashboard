@@ -1,4 +1,4 @@
-# baard_dashboard
+# baard dashboard
 
 An interactive dashboard used to support decision making in the development and evaluation of the BAARD tool.
 
